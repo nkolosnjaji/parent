@@ -1,3 +1,4 @@
 [submodule "submodules"]
 	path = submodules
 	url = git@github.com:nkolosnjaji/child.git
+        update = merge
